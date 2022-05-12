@@ -20,6 +20,9 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
 1. Python
 2. Embedded C++
 
+# How to install requirements
+pip install -r requirements.txt
+
 # Whiteboard Link
 Access My Whiteboard <a href="https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtLzUxZDQzMDcwODE1ZTQzNjQ5N2JkY2FhNTJkZjE3NGEzX0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRF9hZjNlMmNlZi03YTBlLTQwZDYtOGRmYS00YzYxZGY4NmU0Nzg=">Here</a>
 
