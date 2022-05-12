@@ -1,5 +1,5 @@
-# IEEE-ICIBT2022-BIT-MESRA-SESSION
-This tutorial session is been organised by BIT Mesra in an IEEE International Conference on IoT and Blockchain Technology on May 5, 2022. In this tutorial, I'd be talking about applications of ML in IoT domain and will be demonstrating few case studies in the context.
+# NITW-RAGHU-Engineering College - IoT ML FDP
+This tutorial session is been organised by NIT Warangal in association with Raghu Engineering College on May 12, 2022. In this tutorial, I'd be talking about applications of ML in IoT domain and will be demonstrating few case studies in the context.
 
 # About the Speaker
 
