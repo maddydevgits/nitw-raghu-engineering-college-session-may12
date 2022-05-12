@@ -1,0 +1,7 @@
+AWSIoTPythonSDK
+pyserial
+pandas
+numpy
+sklearn
+matplotlib
+seaborn
